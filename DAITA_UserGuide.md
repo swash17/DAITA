@@ -2,6 +2,21 @@
 
 # User Guide
 
+## Table of Contents
+[Data Entry Interface Features](https://github.com/swash17/DAITA/blob/main/DAITA_UserGuide.md#data-entry-interface-features)  
+* [Time Settings and Recording Status](https://github.com/swash17/DAITA/blob/main/DAITA_UserGuide.md#time-settings-and-recording-status)
+* [File Saving and Output File Format](https://github.com/swash17/DAITA/blob/main/DAITA_UserGuide.md#file-saving-and-output-file-format)
+* [Vehicle Classifications](https://github.com/swash17/DAITA/blob/main/DAITA_UserGuide.md#vehicle-classifications)
+* [North Direction Designation and Street Naming](https://github.com/swash17/DAITA/blob/main/DAITA_UserGuide.md#north-direction-designation-and-street-naming)
+* [Vehicle Turning Movement Keys](https://github.com/swash17/DAITA/blob/main/DAITA_UserGuide.md#vehicle-turning-movement-keys)
+
+[Menu Commands](https://github.com/swash17/DAITA/blob/main/DAITA_UserGuide.md#menu-commands) 
+* [File Menu](https://github.com/swash17/DAITA/blob/main/DAITA_UserGuide.md#file-menu)
+* [Options Menu](https://github.com/swash17/DAITA/blob/main/DAITA_UserGuide.md#options-menu)
+* [Record Menu](https://github.com/swash17/DAITA/blob/main/DAITA_UserGuide.md#record-menu)
+
+[Product Support](https://github.com/swash17/DAITA/blob/main/DAITA_UserGuide.md#product-support)
+
 ## Data Entry Interface Features
 ### Time Settings and Recording Status
 The upper right quadrant of the main form displays the current data recording start and end time settings, as well as the data saving interval.  It also displays a signal head that shows the current status of the data collection effort: red signal indicates no data recording in progress; yellow signal indicates a paused data recording session; green signal indicates data recording in progress; and a flashing yellow signal indicates a data recording session about to begin.
